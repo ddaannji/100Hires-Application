@@ -164,8 +164,8 @@ Yurii works inside Woodpecker, which processes millions of cold emails across th
 
 ## 9. Jay Feldman
 **Title:** Co-Founder, Otter PR  
-**LinkedIn:** https://www.linkedin.com/in/jayfeldman/  
-**YouTube:** https://www.youtube.com/@JayFeldman  
+**LinkedIn:** https://www.linkedin.com/in/dr-jay-feldman/
+**YouTube:** https://www.youtube.com/@drjayfeldman
 
 **Why him:**  
 Jay built a multimillion-dollar PR and outreach agency using cold email as the primary client acquisition channel. He shares the exact automation-first systems that scaled his business — AI personalization, sequence architecture, and offer positioning. His perspective is unique because he applies outreach not just for lead generation but for media and PR pitching, which requires a different level of precision and personalization. Real revenue numbers, real systems.
