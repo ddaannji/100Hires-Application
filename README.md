@@ -85,11 +85,16 @@ The 10 experts I selected are all **active practitioners** — founders, agency 
 │   │
 │   ├── youtube-transcripts/         ← Transcripts organized by video
 │   │   ├── README.md
+│   │   ├── jeremy-chatelaine/
+│   │   ├── jack-reamer/
 │   │   ├── alex-vacca/
 │   │   ├── eric-nowoslawski/
+│   │   ├── patrick-spychalski/
 │   │   ├── patrick-dang/
-│   │   ├── jack-reamer/
-│   │   └── jay-feldman/
+│   │   ├── samantha-mckenna/
+│   │   ├── yurii-veremchuk/
+│   │   ├── jay-feldman/
+│   │   └── matthew-lucero/
 │   │
 │   └── other/                       ← Podcasts, newsletters, additional materials
 │       └── README.md
