@@ -109,9 +109,9 @@ The 10 experts I selected are all **active practitioners** — founders, agency 
 
 I evaluated each expert against three filters:
 
-1. Do they practice what they teach?** — Are they actively running campaigns, managing clients, or building outreach tools?
-2. Do they share real data?** — Open rates, reply rates, sequence breakdowns, real pipeline numbers.
-3. Is their content recent and still relevant?** — Active in 2024–2025, posting content that reflects current deliverability and AI-personalization realities.
+1. **Do they practice what they teach?** Are they actively running campaigns, managing clients, or building outreach tools?
+2. **Do they share real data?** Open rates, reply rates, sequence breakdowns, real pipeline numbers.
+3. **Is their content recent and still relevant?** Active in 2024–2025, posting content that reflects current deliverability and AI-personalization realities.
 
 ---
 
