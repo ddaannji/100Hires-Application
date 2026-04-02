@@ -182,7 +182,7 @@ Jay built a multimillion-dollar PR and outreach agency using cold email as the p
 
 ## 10. Matthew Lucero
 **Title:** Founder, Anevo Marketing  
-**LinkedIn:** https://www.linkedin.com/in/matthewlucero/  
+**LinkedIn:** https://www.linkedin.com/in/matthew-lucero/  
 **YouTube:** https://www.youtube.com/@AnevoMarketing  
 **Website:** https://anevomarketing.com
 
