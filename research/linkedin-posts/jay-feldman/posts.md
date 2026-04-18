@@ -1,7 +1,7 @@
 # Dr. Jay Feldman — LinkedIn Posts
 
 **Profile:** https://www.linkedin.com/in/dr-jay-feldman/
-**Company:** Cold Email Educator & YouTube Creator
+**Company:** Lead Gen Jay (Cold Email Educator) & YouTube Creator
 **Focus:** Cold email infrastructure, $15M+ revenue from outreach
 
 ---
