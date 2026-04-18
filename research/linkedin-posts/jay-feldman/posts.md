@@ -1,4 +1,4 @@
-# Jay Feldman — LinkedIn Posts
+# Dr. Jay Feldman — LinkedIn Posts
 
 **Profile:** https://www.linkedin.com/in/dr-jay-feldman/
 **Company:** Cold Email Educator & YouTube Creator
