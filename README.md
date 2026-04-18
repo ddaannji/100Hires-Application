@@ -127,7 +127,7 @@ I evaluated each expert against three filters:
 | 6 | Patrick Dang | YouTube + LinkedIn | B2B sales fundamentals (300K+ subs) |
 | 7 | Samantha McKenna | LinkedIn | "Show Me You Know Me" personalization |
 | 8 | Yurii Veremchuk | LinkedIn + Blog | Data-backed frameworks, Woodpecker |
-| 9 | Jay Feldman | LinkedIn + YouTube | Agency-scale automation |
+| 9 | Dr. Jay Feldman | LinkedIn + YouTube | Cold email educator, 15M+ revenue from outreach|
 | 10 | Matthew Lucero | LinkedIn + YouTube | SaaS-specific deliverability systems |
 
 Full annotations and links: [`research/sources.md`](./research/sources.md)
