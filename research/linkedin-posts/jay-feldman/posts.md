@@ -1,8 +1,8 @@
 # Jay Feldman — LinkedIn Posts
 
 **Profile:** https://www.linkedin.com/in/dr-jay-feldman/
-**Company:** Otter PR (Co-Founder)
-**Focus:** Agency-scale automation, AI-first outreach systems
+**Company:** Cold Email Educator & YouTube Creator
+**Focus:** Cold email infrastructure, $15M+ revenue from outreach
 
 ---
 
